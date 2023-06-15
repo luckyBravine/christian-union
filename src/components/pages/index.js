@@ -1,9 +1,3 @@
-import About from './About';
-import Contact from './Contact';
-import Home from './Home';
-import Donations from './Donations';
-import Ministries from './Ministries';
-import Video from './Video';
-import Activities from './Activities';
-
-export { About, Contact, Home, Donations, Ministries, Video, Activities }
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e7a0bdf6b87600911f50037634818a45795b165c9cd9fb45f4ccc7ea9b1bb8c
+size 272
