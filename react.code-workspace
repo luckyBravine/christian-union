@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "master2.0",
+			"path": "../../../react.worktrees/master2.0"
+		}
+	],
+	"settings": {}
+}
